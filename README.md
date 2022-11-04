@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UlviSuleymanov
 - 👀 I’m interested in fullstack programming
-- 🌱 I’m currently learning Typescript, Node.js and PHP
-- 💞️ I’m looking to collaborate on new or ongoing startup projects
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on new startup or ongoing projects
 - 📫 How to reach me https://t.me/UlviSuleymanov
 
 <!---
