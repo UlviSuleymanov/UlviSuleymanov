@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulvi Suleymanov</h1>
-<h3 align="center">A passionate Developer from Azerbaijan. I have never ending passion for coding and curiosity for details. Beside coding i do 3D modelling and game developing as a hobby.</h3>
+<h3 align="center">A passionate Developer from Azerbaijan. Beside coding i do 3D modelling and game developing as a hobby.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvisuleymanov&label=Profile%20views&color=0e75b6&style=flat" alt="ulvisuleymanov" /> </p>
 
