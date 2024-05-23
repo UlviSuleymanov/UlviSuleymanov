@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvisuleymanov&label=Profile%20views&color=0e75b6&style=flat" alt="ulvisuleymanov" /> </p>
 
-- 🌱 I’m currently learning **System Designing and Devops.**
-
-- 📝 I sometimes write articles on [https://ulvisuleymanov.blogspot.com/](https://ulvisuleymanov.blogspot.com/)
-
 - 📫 How to reach me **https://t.me/UlviSuleymanov**
 
 <h3 align="left">Connect with me:</h3>
