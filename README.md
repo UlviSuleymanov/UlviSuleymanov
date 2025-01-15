@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ülvi Suleymanov</h1>
-<h3 align="center">Fullstack Developer from Azerbaijan</h3>
+<h3 align="center">Backend Developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvisuleymanov&label=Profile%20views&color=0e75b6&style=flat" alt="ulvisuleymanov" /> </p>
 
