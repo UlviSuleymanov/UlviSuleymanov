@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvisuleymanov&label=Profile%20views&color=0e75b6&style=flat" alt="ulvisuleymanov" /> </p>
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **UE5 and Game development with C++**
 
 - 💬 Ask me about **PHP,Laravel,Unity**
 
